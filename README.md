@@ -23,7 +23,7 @@ I'm James Onwude (King James II 🐐), a Software Development student at Brigham
 
 ## Let's Connect!
 
-[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onwude-james-uchenna)  
-[![](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JaOnwude)
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/onwude-james-uchenna)  
+[![](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=black)](https://x.com/JaOnwude)
 
 Feel free to explore my repositories (like my WDD course projects) and reach out. Happy coding! 🚀
