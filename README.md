@@ -1,15 +1,15 @@
 # JaOnwude
 
-Hello, GitHub! 👋
+Hello, visitor! 👋
 
-I'm James Onwude (King James II 🐐), a Software Development student at Brigham Young University-Idaho. Passionate about building clean web applications, good governance, active citizenship, and making positive impact. Welcome to my GitHub profile!
+I'm Onwude James Uchenna, a Software Development student at Brigham Young University-Idaho. I'm passionate about building clean web applications,good governance, active citizenship, and making positive impact. Welcome to my GitHub profile!
 
 ## About Me
 
 - 🔭 Currently learning web development (HTML, CSS, JavaScript) and exploring software engineering principles
-- 🌱 My goals are to become a full-stack developer and contribute to projects that promote transparency and community good
+- 🌱 My goals are to become a renowned full-stack developer and contribute to projects that promote transparency and community good
 - 💬 Ask me about web basics, Nigerian governance issues, or BYU-Idaho courses
-- 📍 Based in Aba, Abia State, Nigeria
+- 📍 Based in Abakaliki, Ebonyi State, Nigeria
 
 ## Technologies and Tools
 
@@ -26,4 +26,4 @@ I'm James Onwude (King James II 🐐), a Software Development student at Brigham
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/onwude-james-uchenna)  
 [![](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=black)](https://x.com/JaOnwude)
 
-Feel free to explore my repositories (like my WDD course projects) and reach out. Happy coding! 🚀
+Feel free to explore my repositories (like my 3MTT, WDD and CSE course projects) and reach out. Happy coding! 🚀
