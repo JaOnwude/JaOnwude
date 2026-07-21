@@ -1,29 +1,570 @@
-# JaOnwude
+<!--Banner-->
+<img src="./animbanner.gif" alt="Omajesty Banner Image" width="100%" height="220" />
 
-Hello, visitor! 👋
-
-I'm Onwude James Uchenna, a Software Development student at Brigham Young University-Idaho. I'm passionate about building clean web applications,good governance, active citizenship, and making positive impact. Welcome to my GitHub profile!
-
-## About Me
-
-- 🔭 Currently learning web development (HTML, CSS, JavaScript) and exploring software engineering principles
-- 🌱 My goals are to become a renowned full-stack developer and contribute to projects that promote transparency and community good
-- 💬 Ask me about web basics, Nigerian governance issues, or BYU-Idaho courses
-- 📍 Based in Abakaliki, Ebonyi State, Nigeria
-
-## Technologies and Tools
-
+<!--Night Owl image-->
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-## Let's Connect!
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ James Uchenna, Onwude! 
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
 
-[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/onwude-james-uchenna)  
-[![](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=black)](https://x.com/JaOnwude)
+<!--Start Intro-->               
+<p align="left">**Full-Stack Developer** with **5+ years** of experience building scalable web and mobile applications across Nigeria 🇳🇬 and beyond.
 
-Feel free to explore my repositories (like my 3MTT, WDD and CSE course projects) and reach out. Happy coding! 🚀
+I enjoy solving complex business problems through software, having shipped enterprise applications, government platforms, logistics systems, school management systems, AI-powered tools, and fintech products.
+</p>
+
+<!--End Intro-->
+
+---
+
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Advanced JavaScript</li>
+  <li>Python</li>
+  <li>React Native</li>
+  <li>Cloud Architecture</li>
+</ul>
+  
+<br />
+<br />
+<br />
+<br />
+
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/Omajesty">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Omajesty&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Omajesty&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Omajesty&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/Omajesty/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Omajesty">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Omajesty&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Omajesty">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Omajesty&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Omajesty/storyblok-mcp-server">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Omajesty&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Omajesty">
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Omajesty&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omajesty&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=You%20never%20know%20when%20a%20moment%20and%20a%20few%20sincere%20words%20can%20have%20an%20impact%20on%20a%20life.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:majestyking.os@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="majestyking.os@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/onuzurikesamuel" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="onuzurikesamuel" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/onuzurikesamuel" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="onuzurikesamuel" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/Omajesty" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Omajesty" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/samuel-onuzurike-883705133/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
+
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://www.buymeacoffee.com/Omajesty" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
